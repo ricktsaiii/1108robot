@@ -19,12 +19,15 @@
 搜尋ID: @814qejlp
 
 掃描 QR code
-
+![](https://i.imgur.com/xToe3d2.png)
 
 加入好友
+![](https://i.imgur.com/dHBwnsv.png)
 
  # 使用說明
   -----------------------------
+![](https://i.imgur.com/vhVPgYO.png)
+
   傳送座標📍，"Give me Exhibitions"馬上告訴你展覽資訊。
 
   # API使用來源
